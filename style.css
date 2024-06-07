@@ -3,8 +3,7 @@ div { color:rgb(100,100,255);
 border-color: blue;
   padding: 16px;}
 div:hover { color:rgb(100,100,255);
-border-style: solid;
-padding: 1rem;
-border-color: blue;
+border: 1px solid blue;
+padding: 16px;
 background-color: rgb(180,180,255}
  
