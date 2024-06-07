@@ -1,6 +1,8 @@
 p { color:rgb(100,100,255);
-border: 2px blue;}
+   border-style: solid;
+border-color: blue;}
 p:hover { color:rgb(100,100,255);
-border: 2px blue;
+border-style: solid;
+border-color: blue;
  background-color: rgb(0,0,255}
  
