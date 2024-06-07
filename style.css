@@ -1,9 +1,9 @@
 div { color:rgb(100,100,255);
    border-style: solid;
 border-color: blue;
-  padding: 16px;}
+  padding: 1rem;}
 div:hover { color:rgb(100,100,255);
 border: 1px solid blue;
-padding: 16px;
+padding: 1rem;
 background-color: rgb(180,180,255}
  
