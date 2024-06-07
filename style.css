@@ -1,8 +1,8 @@
-p { color:rgb(100,100,255);
+div { color:rgb(100,100,255);
    border-style: solid;
 border-color: blue;
   padding: 16px;}
-p:hover { color:rgb(100,100,255);
+div:hover { color:rgb(100,100,255);
 border-style: solid;
 padding: 1rem;
 border-color: blue;
