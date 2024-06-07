@@ -1,7 +1,7 @@
 p { color:rgb(100,100,255);
    border-style: solid;
 border-color: blue;
-  padding: 1rem;}
+  padding: 10rem;}
 p:hover { color:rgb(100,100,255);
 border-style: solid;
 padding: 1rem;
